@@ -2,8 +2,22 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/java/com/kaka/EurekaServer7001_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/bootstrap.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/kaka/entities/Dept.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-80/src/main/java/com/kaka/DeptConsumer80_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-80/src/main/java/com/kaka/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-80/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/kaka/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/kaka/service/impl/DeptServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
