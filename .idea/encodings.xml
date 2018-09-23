@@ -5,8 +5,15 @@
     <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/java/com/kaka/EurekaServer7001_App.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/application.yml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/application.yml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7001/src/main/resources/bootstrap.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002/src/main/java/com/kaka/EurekaServer7002_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002/src/main/java/kaka/EurekaServer7001_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002/src/main/java/kaka/EurekaServer7002_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002/src/main/java/kaka/EurekaServer7003_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7002/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7003/src/main/java/com/kaka/EurekaServer7003_App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/microservice-cloud-eureka-7003/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/kaka/entities/Dept.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-80" charset="UTF-8" />
